@@ -60,8 +60,7 @@ After submitting a query (like “Pharmacies in Bengaluru”), the app:
 
 🌐 Live Demo
 You can try the live version here:
-🔗 https://yourusername.streamlit.app
-(replace with your actual deployed URL)
+🔗https://dharshiniganapathi-maps-scraper.streamlit.app/
 
 🎓 What This Project Demonstrates
 
