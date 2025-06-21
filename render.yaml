@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: google-maps-scraper
+    env: python
+    buildCommand: ""
+    startCommand: streamlit run main.py
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.10
